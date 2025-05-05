@@ -1,0 +1,1 @@
+# trendglobe-api-docs
